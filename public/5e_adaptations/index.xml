@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>5e Adaptations on Elkan DND Campaigns</title>
-    <link>/5e_adaptations/</link>
+    <link>https://nevilspealer.github.io/5e_adaptations/</link>
     <description>Recent content in 5e Adaptations on Elkan DND Campaigns</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 08 Dec 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/5e_adaptations/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://nevilspealer.github.io/5e_adaptations/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
