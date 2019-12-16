@@ -1,7 +1,0 @@
-[submodule "hugo-theme-techdoc"]
-	path = hugo-theme-techdoc
-	url = https://github.com/thingsym/hugo-theme-techdoc.git
-[submodule "public"]
-	path = public
-	url = git@github.com:nevilspealer/nevilspealer.github.io.git
-	branch = master
